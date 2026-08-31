@@ -3,8 +3,6 @@
 Desarrollador Backend especializado en **Java** y **Spring Boot**.  
 Me enfoco en construir APIs REST limpias, escalables y mantenibles.
 
----
-
 ### 🚀 Sobre mí
 
 - 🔭 Actualmente busco oportunidades como **Desarrollador Backend Java** en Guatemala
