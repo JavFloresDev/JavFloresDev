@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hola, soy Javier Flores 👋
 
-<!--
-**JavFloresDev/JavFloresDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Backend especializado en **Java** y **Spring Boot**.  
+Me enfoco en construir APIs REST limpias, escalables y mantenibles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+
+- 🔭 Actualmente busco oportunidades como **Desarrollador Backend Java** en Guatemala
+- 🌱 Aprendiendo y practicando: Spring Boot, Microservicios, Docker y buenas prácticas
+- 💡 Me gusta escribir código limpio y resolver problemas de forma eficiente
+- 📍 Ciudad de Guatemala, Guatemala
+
+---
+
+### 🛠️ Stack principal
+
+**Backend:**
+- Java 17/21
+- Spring Boot
+- APIs REST
+
+**Bases de datos & Herramientas:**
+- MySQL
+- Git & GitHub
+- Docker
+- Maven / Gradle
+
+---
+
+### 📌 Proyectos
+
+> Pronto agregaré mis proyectos de Backend con Spring Boot.
+
+---
+
+### 🔗 Conectemos
+
+- LinkedIn: linkedin.com/in/javierfloresdev 
+- Email: JhonnyFlores.dev@outlook.com
+- Portafolio: thisisjhonnyf.github.io/mi-portafolio
