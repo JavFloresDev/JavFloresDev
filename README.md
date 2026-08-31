@@ -37,6 +37,6 @@ Me enfoco en construir APIs REST limpias, escalables y mantenibles.
 
 ### Conectemos
 
-- LinkedIn: linkedin.com/in/javierfloresdev 
+- LinkedIn: www.linkedin.com/in/javierfloresdev 
 - Email: JhonnyFlores.dev@outlook.com
 - Portafolio: thisisjhonnyf.github.io/mi-portafolio
