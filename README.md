@@ -1,4 +1,4 @@
-# Hola, soy Javier Flores 👋
+# Hola, soy Javier Flores
 
 Desarrollador Backend especializado en **Java** y **Spring Boot**.  
 Me enfoco en construir APIs REST limpias, escalables y mantenibles.
