@@ -17,7 +17,7 @@ Me enfoco en construir APIs REST limpias, escalables y mantenibles.
 ### Stack principal
 
 **Backend:**
-- Java 17/21
+- Java 17/26
 - Spring Boot
 - APIs REST
 
